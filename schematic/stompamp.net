@@ -1,0 +1,111 @@
+# EESchema Netlist Version 1.1 created  Fri 05 Apr 2013 17:50:07 BST
+(
+ ( /5151E3CD SM0603 C1 4u7
+  ( 1 N-000007 )
+  ( 2 N-000003 )
+ )
+ ( /5151E3BE SM0603 C2 10u
+  ( 1 N-000001 )
+  ( 2 N-000005 )
+ )
+ ( /5153553D SM0805 C3 10u
+  ( 1 N-000006 )
+  ( 2 N-000005 )
+ )
+ ( /5151FE6A MOLEX_2_PIN_2_54 PL1 MOLEX_2_PIN_HEADER
+  ( 1 N-000005 )
+  ( 2 N-000006 )
+ )
+ ( /5151FF8E MOLEX_2_PIN_2_54 PL2 MOLEX_2_PIN_HEADER
+  ( 1 N-000005 )
+  ( 2 N-000002 )
+ )
+ ( /515355C6 MOLEX_2_PIN_2_54 PL3 MOLEX_2_PIN_HEADER
+  ( 1 N-000003 )
+  ( 2 N-000005 )
+ )
+ ( /51535655 MOLEX_3_PIN_2_54 PL4 MOLEX_3_PIN_HEADER
+  ( 1 N-000003 )
+  ( 2 N-000004 )
+  ( 3 N-000005 )
+ )
+ ( /5151C20C SOT23 Q1 PMBFJ110
+  ( 1 N-000007 )
+  ( 2 N-000001 )
+  ( 3 N-000002 )
+ )
+ ( /5151E391 SM0603 R1 3M
+  ( 1 N-000002 )
+  ( 2 N-000005 )
+ )
+ ( /5151E3AF SM0603 R2 6k8
+  ( 1 N-000006 )
+  ( 2 N-000007 )
+ )
+ ( /5151E3A0 SM0603 R3 2k2
+  ( 1 N-000001 )
+  ( 2 N-000005 )
+ )
+ ( /5151E3DC SM0603 R4 51k
+  ( 1 N-000003 )
+  ( 2 N-000005 )
+ )
+ ( /515200FF SM0603 R5 6k8
+  ( 1 N-000005 )
+  ( 2 N-000004 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

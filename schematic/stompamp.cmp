@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Fri 05 Apr 2013 17:50:07 BST
+
+BeginCmp
+TimeStamp = /5151E3CD;
+Reference = C1;
+ValeurCmp = 4u7;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151E3BE;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5153553D;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151FE6A;
+Reference = PL1;
+ValeurCmp = MOLEX_2_PIN_HEADER;
+IdModule  = MOLEX_2_PIN_2_54;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151FF8E;
+Reference = PL2;
+ValeurCmp = MOLEX_2_PIN_HEADER;
+IdModule  = MOLEX_2_PIN_2_54;
+EndCmp
+
+BeginCmp
+TimeStamp = /515355C6;
+Reference = PL3;
+ValeurCmp = MOLEX_2_PIN_HEADER;
+IdModule  = MOLEX_2_PIN_2_54;
+EndCmp
+
+BeginCmp
+TimeStamp = /51535655;
+Reference = PL4;
+ValeurCmp = MOLEX_3_PIN_HEADER;
+IdModule  = MOLEX_3_PIN_2_54;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151C20C;
+Reference = Q1;
+ValeurCmp = PMBFJ110;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151E391;
+Reference = R1;
+ValeurCmp = 3M;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151E3AF;
+Reference = R2;
+ValeurCmp = 6k8;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151E3A0;
+Reference = R3;
+ValeurCmp = 2k2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151E3DC;
+Reference = R4;
+ValeurCmp = 51k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /515200FF;
+Reference = R5;
+ValeurCmp = 6k8;
+IdModule  = SM0603;
+EndCmp
+
+EndListe
